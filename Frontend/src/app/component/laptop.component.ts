@@ -15,19 +15,33 @@ export class LaptopComponent implements OnInit {
     searchForm!: FormGroup;
     formSubmitted = false;
 
-    constructor() { }
+    constructor() {}
 
-    ngOnInit(): void { }
+    ngOnInit(): void {
+        // write your logic here
+    }
 
-    getAllLaptops(): void { }
+    getAllLaptops(): void {
+        // write your logic here
+    }
 
-    onSearch(): void { }
+    onSearch(): void {
+        // write your logic here
+    }
 
-    deleteLaptop(id: number): void { }
+    deleteLaptop(id: number): void {
+        // write your logic here
+    }
 
-    onSubmit(): void { }
+    onSubmit(): void {
+        // write your logic here
+    }
 
-    editLaptop(id: number): void { }
+    editLaptop(id: number): void {
+        // write your logic here
+    }
 
-    resetForm(): void { }
+    resetForm(): void {
+        // write your logic here
+    }
 }
