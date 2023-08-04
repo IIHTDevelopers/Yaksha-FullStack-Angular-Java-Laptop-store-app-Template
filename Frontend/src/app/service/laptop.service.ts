@@ -12,42 +12,42 @@ export class LaptopService {
     constructor(private http: HttpClient) { }
 
     getAllLaptops(): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     getLaptopById(id: number): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     createLaptop(laptop: Laptop): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     updateLaptop(id: number, laptop: Laptop): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     deleteLaptop(id: number): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     searchLaptopsByName(name: string): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     searchLaptopsByPrice(price: number): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 
     searchLaptopsByBrand(brand: string): any {
-        // write your logic her
+        // write your logic here
         return null;
     }
 }
